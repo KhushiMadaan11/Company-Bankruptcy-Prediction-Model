@@ -1,0 +1,6 @@
+Accuracy score of Logistic Regression 95.74780058651027
+Accuracy score of KNN 95.23460410557185
+Accuracy score of Naive Bayes 9.824046920821115
+Accuracy score of SVM 95.52785923753666
+Accuracy score of Decision Tree 94.72140762463343
+Accuracy score of Random Forest 95.82111436950147
